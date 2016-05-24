@@ -1,6 +1,7 @@
 body{
-    background-image: url("images/Trees.png");
-    font-family: Arial;
+  background-image: url("images/Trees.png");
+  background-repeat: = no-repeat;
+  font-family: Arial;
 }
 
 h1, h2, h3 {color: Green;
