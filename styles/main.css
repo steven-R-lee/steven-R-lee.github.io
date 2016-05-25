@@ -1,4 +1,6 @@
 body {
+  background-image: url("images/Trees.png");
+  background-repeat: repeat-x;
   font-family: Arial;
 }
 
