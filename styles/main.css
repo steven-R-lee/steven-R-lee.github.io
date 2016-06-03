@@ -1,4 +1,12 @@
 body {
   background-image: url("../images/paintsquares.jpg");
   background-repeat: repeat;
+
+  padding-top: 50px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+}
+
+h1 {
 }
