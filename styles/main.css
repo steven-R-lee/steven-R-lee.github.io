@@ -1,4 +1,4 @@
 body {
-  background-image: url("images/paintsquares.jpg");
-  background-repeat: repeat;
+  background-image: url('images/paintsquares.jpg');
+  background-repeat: no-repeat;
 }
