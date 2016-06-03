@@ -1,3 +1,4 @@
 body {
-  background-color: DarkCyan;
+  background-image: url("images/paintsquares.jpg");
+  background-repeat: repeat;
 }
