@@ -24,8 +24,10 @@ button {
 
 .tech {
   background-color: Red;
+  width: 10em;
 }
 
 .cult {
   background-color: Green;
+  width: 10em;
 }
