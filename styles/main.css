@@ -6,6 +6,7 @@ body {
   padding-right: 25px;
   padding-bottom: 25px;
   padding-left: 25px;
+  text-align: centre;
 }
 
 div {
@@ -15,7 +16,7 @@ div {
   margin-left: 10px;
 
   align-content: align-content;
-}
+} 
 
 button {
   background-color: #FFFFFF;
