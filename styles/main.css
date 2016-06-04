@@ -25,9 +25,11 @@ button {
 .tech {
   background-color: #006666;
   width: 30em;
+  font-weight: 700;
 }
 
 .cult {
   background-color: #FF6633;
   width: 30em;
+  font-weight: 700;
 }
